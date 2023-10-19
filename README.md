@@ -39,7 +39,7 @@ Step 3: Repeat the  iteration  until the losses become constant and
              (v)   Append the losses in a list
 Step 4 : Test for the XOR patterns.
 
-** PROGRAM** 
+## PROGRAM
 ```python
 import numpy as np
 import pandas as pd
@@ -113,7 +113,7 @@ predict(w1,w2,test)
 ```
 
 
- **OUTPUT** 
+## OUTPUT 
 ![image](https://github.com/Prasannalakshmiganesan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/118610231/05b79445-7421-4113-8b38-7e508f04352f)
 
 ![image](https://github.com/Prasannalakshmiganesan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/118610231/b5da9bad-4fb2-49d1-b9b4-013c8af85b13)
